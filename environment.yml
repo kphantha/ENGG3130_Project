@@ -1,0 +1,26 @@
+name: engg3130_project
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - jupyterlab=4
+  - numpy
+  - matplotlib
+  - seaborn
+  - networkx
+  - empiricaldist
+  - sphinx
+  - tqdm
+  - future
+  - pip
+  - nbstripout
+  - nbdime
+  - python-lsp-server
+  - jupyterlab-lsp
+  - black
+  - isort
+  - jupyterlab_code_formatter
+  - jupyter-ai
+  - langchain-openai
+  - langchain-google-genai
+  - shapely
